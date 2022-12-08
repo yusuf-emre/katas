@@ -11,13 +11,10 @@ public class ListNode
     }
     public static ListNode MergeTwoLists(ListNode list1, ListNode list2)
     {
-        // Create a new, empty linked list that will be used to store the merged list.
         var head = new ListNode();
 
-        // Create a reference to the current node in the merged list, initially set to the head node.
         var currentNode = head;
 
-        // Loop through the two input lists, comparing the nodes and adding the smaller of the two to the merged list.
         while (list1 != null && list2 != null)
         {
             if (list1.val <= list2.val)
@@ -34,8 +31,6 @@ public class ListNode
             currentNode = currentNode.next;
         }
 
-        // Once one of the input lists is empty, append the remaining nodes from the other list to the merged list.
-        // Because the input lists are already sorted, the remaining nodes are already in the correct order.
         if (list1 != null)
         {
             currentNode.next = list1;
@@ -45,7 +40,6 @@ public class ListNode
             currentNode.next = list2;
         }
 
-        // Return the merged list, starting from the head node's next reference (the first actual node in the list).
         return head.next;
     }
 }
