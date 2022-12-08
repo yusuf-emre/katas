@@ -1,5 +1,63 @@
 # Run each console app with "dotnet run" command in the terminal.
 
+
+
+## Climbing Stairs
+
+You are climbing a staircase. It takes n steps to reach the top.
+
+Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
+
+Example 1:
+
+Input: n = 2
+Output: 2
+Explanation: There are two ways to climb to the top.
+1. 1 step + 1 step
+2. 2 steps
+
+Example 2:
+
+Input: n = 3
+Output: 3
+Explanation: There are three ways to climb to the top.
+1. 1 step + 1 step + 1 step
+2. 1 step + 2 steps
+3. 2 steps + 1 step
+ 
+Constraints:
+
+1 <= n <= 45
+
+
+
+
+## Longest Common Prefix
+
+Write a function to find the longest common prefix string amongst an array of strings.
+
+If there is no common prefix, return an empty string "".
+
+Example 1:
+
+Input: strs = ["flower","flow","flight"]
+Output: "fl"
+
+Example 2:
+
+Input: strs = ["dog","racecar","car"]
+Output: ""
+Explanation: There is no common prefix among the input strings.
+
+Constraints:
+
+1 <= strs.length <= 200
+0 <= strs[i].length <= 200
+strs[i] consists of only lowercase English letters.
+
+
+
+
 ## Merge Two Sorted Lists
 
 You are given the heads of two sorted linked lists list1 and list2.
@@ -30,56 +88,6 @@ The number of nodes in both lists is in the range [0, 50].
 Both list1 and list2 are sorted in non-decreasing order.
 
 
-## Climbing Stairs
-
-You are climbing a staircase. It takes n steps to reach the top.
-
-Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
-
-Example 1:
-
-Input: n = 2
-Output: 2
-Explanation: There are two ways to climb to the top.
-1. 1 step + 1 step
-2. 2 steps
-
-Example 2:
-
-Input: n = 3
-Output: 3
-Explanation: There are three ways to climb to the top.
-1. 1 step + 1 step + 1 step
-2. 1 step + 2 steps
-3. 2 steps + 1 step
- 
-Constraints:
-
-1 <= n <= 45
-
-## Longest Common Prefix
-
-Write a function to find the longest common prefix string amongst an array of strings.
-
-If there is no common prefix, return an empty string "".
-
-Example 1:
-
-Input: strs = ["flower","flow","flight"]
-Output: "fl"
-
-Example 2:
-
-Input: strs = ["dog","racecar","car"]
-Output: ""
-Explanation: There is no common prefix among the input strings.
-
-Constraints:
-
-1 <= strs.length <= 200
-0 <= strs[i].length <= 200
-strs[i] consists of only lowercase English letters.
-
 
 ## Reverse Linked List
 
@@ -104,6 +112,7 @@ Constraints:
 
 The number of nodes in the list is the range [0, 5000].
 -5000 <= Node.val <= 5000
+
 
 
 ## Validate Binary Search Tree
