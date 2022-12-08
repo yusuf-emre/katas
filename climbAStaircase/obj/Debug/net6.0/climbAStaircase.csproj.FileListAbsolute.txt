@@ -1,0 +1,15 @@
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\climbAStaircase\bin\Debug\net6.0\climbAStaircase.exe
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\climbAStaircase\bin\Debug\net6.0\climbAStaircase.deps.json
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\climbAStaircase\bin\Debug\net6.0\climbAStaircase.runtimeconfig.json
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\climbAStaircase\bin\Debug\net6.0\climbAStaircase.dll
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\climbAStaircase\bin\Debug\net6.0\climbAStaircase.pdb
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\climbAStaircase\obj\Debug\net6.0\climbAStaircase.csproj.AssemblyReference.cache
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\climbAStaircase\obj\Debug\net6.0\climbAStaircase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\climbAStaircase\obj\Debug\net6.0\climbAStaircase.AssemblyInfoInputs.cache
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\climbAStaircase\obj\Debug\net6.0\climbAStaircase.AssemblyInfo.cs
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\climbAStaircase\obj\Debug\net6.0\climbAStaircase.csproj.CoreCompileInputs.cache
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\climbAStaircase\obj\Debug\net6.0\climbAStaircase.dll
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\climbAStaircase\obj\Debug\net6.0\refint\climbAStaircase.dll
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\climbAStaircase\obj\Debug\net6.0\climbAStaircase.pdb
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\climbAStaircase\obj\Debug\net6.0\climbAStaircase.genruntimeconfig.cache
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\climbAStaircase\obj\Debug\net6.0\ref\climbAStaircase.dll

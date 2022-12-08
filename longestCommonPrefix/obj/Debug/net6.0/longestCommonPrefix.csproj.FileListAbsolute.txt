@@ -1,0 +1,15 @@
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\longestCommonPrefix\bin\Debug\net6.0\longestCommonPrefix.exe
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\longestCommonPrefix\bin\Debug\net6.0\longestCommonPrefix.deps.json
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\longestCommonPrefix\bin\Debug\net6.0\longestCommonPrefix.runtimeconfig.json
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\longestCommonPrefix\bin\Debug\net6.0\longestCommonPrefix.dll
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\longestCommonPrefix\bin\Debug\net6.0\longestCommonPrefix.pdb
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\longestCommonPrefix\obj\Debug\net6.0\longestCommonPrefix.csproj.AssemblyReference.cache
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\longestCommonPrefix\obj\Debug\net6.0\longestCommonPrefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\longestCommonPrefix\obj\Debug\net6.0\longestCommonPrefix.AssemblyInfoInputs.cache
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\longestCommonPrefix\obj\Debug\net6.0\longestCommonPrefix.AssemblyInfo.cs
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\longestCommonPrefix\obj\Debug\net6.0\longestCommonPrefix.csproj.CoreCompileInputs.cache
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\longestCommonPrefix\obj\Debug\net6.0\longestCommonPrefix.dll
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\longestCommonPrefix\obj\Debug\net6.0\refint\longestCommonPrefix.dll
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\longestCommonPrefix\obj\Debug\net6.0\longestCommonPrefix.pdb
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\longestCommonPrefix\obj\Debug\net6.0\longestCommonPrefix.genruntimeconfig.cache
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\longestCommonPrefix\obj\Debug\net6.0\ref\longestCommonPrefix.dll

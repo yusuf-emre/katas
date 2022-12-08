@@ -1,0 +1,15 @@
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\reverseLinkedList\bin\Debug\net6.0\reverseLinkedList.exe
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\reverseLinkedList\bin\Debug\net6.0\reverseLinkedList.deps.json
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\reverseLinkedList\bin\Debug\net6.0\reverseLinkedList.runtimeconfig.json
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\reverseLinkedList\bin\Debug\net6.0\reverseLinkedList.dll
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\reverseLinkedList\bin\Debug\net6.0\reverseLinkedList.pdb
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\reverseLinkedList\obj\Debug\net6.0\reverseLinkedList.csproj.AssemblyReference.cache
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\reverseLinkedList\obj\Debug\net6.0\reverseLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\reverseLinkedList\obj\Debug\net6.0\reverseLinkedList.AssemblyInfoInputs.cache
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\reverseLinkedList\obj\Debug\net6.0\reverseLinkedList.AssemblyInfo.cs
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\reverseLinkedList\obj\Debug\net6.0\reverseLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\reverseLinkedList\obj\Debug\net6.0\reverseLinkedList.dll
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\reverseLinkedList\obj\Debug\net6.0\refint\reverseLinkedList.dll
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\reverseLinkedList\obj\Debug\net6.0\reverseLinkedList.pdb
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\reverseLinkedList\obj\Debug\net6.0\reverseLinkedList.genruntimeconfig.cache
+C:\Users\velio\OneDrive\Skrivbord\job\Salt\6-PGP\katas\reverseLinkedList\obj\Debug\net6.0\ref\reverseLinkedList.dll
