@@ -31,7 +31,7 @@ public class Solution
     public int ClimbStairsAlternative(int n)
     {
         int[] ways = new int[n + 1];
-     
+
         ways[0] = 1;
         ways[1] = 1;
 

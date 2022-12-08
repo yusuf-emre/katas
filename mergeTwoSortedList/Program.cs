@@ -39,7 +39,6 @@ public class ListNode
         {
             currentNode.next = list2;
         }
-
         return head.next;
     }
 }
